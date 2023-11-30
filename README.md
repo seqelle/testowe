@@ -1,3 +1,4 @@
 # testowe
 Testowe repozytorium publiczne Iza
-Napisać plan testu dla wp od pkt 1 do 5 yyyyy
+Napisać plan testu dla wp od pkt 1 do 5
+1. Wstęp
